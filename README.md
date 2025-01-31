@@ -1,5 +1,4 @@
-# Maestria-analitica-moduloProgramaciondatos
 
-Esto es una modificación
-
-# Esto es un cambio hecho por otra persona 
+# Estudiante Johan Sebastian Pardo Ruiz
+## Maestria en analítica y gerencia de datos
+Se realiza la respectiva entrega de los talleres del modulo de programación
